@@ -1,0 +1,1176 @@
+.landingPage {
+  	width: 100%;
+  	height: 4931px;
+  	position: relative;
+  	background-color: #f7f9fb;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 14px;
+  	color: #000;
+  	font-family: Lato;
+}
+.vivi {
+  	position: absolute;
+  	top: -131px;
+  	left: 34px;
+  	font-size: 50px;
+  	letter-spacing: -0.04em;
+  	font-family: 'Neue Haas Grotesk Display Pro';
+  	display: inline-block;
+  	width: 1406px;
+  	height: 1153px;
+  	flex-shrink: 0;
+}
+.maskGroupIcon {
+  	position: absolute;
+  	top: 172px;
+  	left: 842.05px;
+  	width: 547.9px;
+  	height: 544px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.landingPageChild {
+  	position: absolute;
+  	top: 848px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 953px;
+  	flex-shrink: 0;
+}
+.landingPageItem {
+  	position: absolute;
+  	top: 1827px;
+  	left: 676px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 62px;
+  	height: 62px;
+  	flex-shrink: 0;
+}
+.landingPageInner {
+  	position: absolute;
+  	top: 986px;
+  	left: 730px;
+  	border-radius: 30px;
+  	background-color: #edf4f7;
+  	border: 1px solid #d8dde0;
+  	box-sizing: border-box;
+  	width: 320px;
+  	height: 438px;
+  	flex-shrink: 0;
+}
+.rectangleDiv {
+  	position: absolute;
+  	top: 986px;
+  	left: 1070px;
+  	border-radius: 30px;
+  	background-color: #fff;
+  	border: 1px solid #d8dde0;
+  	box-sizing: border-box;
+  	width: 320px;
+  	height: 209px;
+  	flex-shrink: 0;
+}
+.ellipseDiv {
+  	position: absolute;
+  	top: 1004px;
+  	left: 1088px;
+  	border-radius: 50%;
+  	background-color: #01489e;
+  	width: 49px;
+  	height: 48px;
+  	flex-shrink: 0;
+}
+.lineiconsbolt2 {
+  	position: absolute;
+  	top: 1015px;
+  	left: 1101px;
+  	width: 24px;
+  	height: 25px;
+  	flex-shrink: 0;
+}
+.div {
+  	position: absolute;
+  	top: 1129px;
+  	left: 752px;
+  	font-size: 80px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	font-weight: 900;
+  	flex-shrink: 0;
+}
+.landingPageChild2 {
+  	position: absolute;
+  	top: 1215px;
+  	left: 1070px;
+  	border-radius: 30px;
+  	background-color: #01489e;
+  	border: 1px solid #d8dde0;
+  	box-sizing: border-box;
+  	width: 320px;
+  	height: 209px;
+  	flex-shrink: 0;
+}
+.landingPageChild3 {
+  	position: absolute;
+  	top: 1233px;
+  	left: 1088px;
+  	border-radius: 50%;
+  	background-color: #fff;
+  	width: 49px;
+  	height: 48px;
+  	flex-shrink: 0;
+}
+.fluentcommunication16RegulaIcon {
+  	position: absolute;
+  	top: 1245px;
+  	left: 1101px;
+  	width: 24px;
+  	height: 24px;
+  	flex-shrink: 0;
+}
+.landingPageChild4 {
+  	position: absolute;
+  	top: 1440px;
+  	left: 730px;
+  	border-radius: 30px;
+  	background-color: #fff;
+  	border: 1px solid #d8dde0;
+  	box-sizing: border-box;
+  	width: 320px;
+  	height: 209px;
+  	flex-shrink: 0;
+}
+.landingPageChild5 {
+  	position: absolute;
+  	top: 1458px;
+  	left: 752px;
+  	border-radius: 50%;
+  	background-color: #01489e;
+  	width: 49px;
+  	height: 48px;
+  	flex-shrink: 0;
+}
+.antDesignteamOutlinedIcon {
+  	position: absolute;
+  	top: 1470px;
+  	left: 765px;
+  	width: 24px;
+  	height: 24px;
+  	flex-shrink: 0;
+}
+.landingPageChild6 {
+  	position: absolute;
+  	top: 1761px;
+  	left: 0px;
+  	background-color: #f7f9fb;
+  	width: 1440px;
+  	height: 848px;
+  	flex-shrink: 0;
+}
+.lineDiv {
+  	position: absolute;
+  	top: 2124.5px;
+  	left: 49.5px;
+  	border-top: 1px solid #768898;
+  	box-sizing: border-box;
+  	width: 1341px;
+  	height: 1px;
+  	flex-shrink: 0;
+}
+.wrapper {
+  	position: absolute;
+  	top: 2136px;
+  	left: 70px;
+  	width: 47px;
+  	height: 76px;
+  	flex-shrink: 0;
+  	font-size: 80px;
+  	color: #3d9b41;
+}
+.div2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	font-weight: 900;
+}
+.landingPageChild7 {
+  	position: absolute;
+  	top: 2245.5px;
+  	left: 49.5px;
+  	border-top: 1px solid #768898;
+  	box-sizing: border-box;
+  	width: 1341px;
+  	height: 1px;
+  	flex-shrink: 0;
+}
+.container {
+  	position: absolute;
+  	top: 2254px;
+  	left: 70px;
+  	width: 47px;
+  	height: 76px;
+  	flex-shrink: 0;
+  	font-size: 80px;
+  	color: #3d9b41;
+}
+.landingPageChild8 {
+  	position: absolute;
+  	top: 2366.5px;
+  	left: 49.5px;
+  	border-top: 1px solid #768898;
+  	box-sizing: border-box;
+  	width: 1341px;
+  	height: 1px;
+  	flex-shrink: 0;
+}
+.frame {
+  	position: absolute;
+  	top: 2372px;
+  	left: 70px;
+  	width: 47px;
+  	height: 76px;
+  	flex-shrink: 0;
+  	font-size: 80px;
+  	color: #3d9b41;
+}
+.landingPageChild9 {
+  	position: absolute;
+  	top: 2487.5px;
+  	left: 49.5px;
+  	border-top: 1px solid #768898;
+  	box-sizing: border-box;
+  	width: 1341px;
+  	height: 1px;
+  	flex-shrink: 0;
+}
+.groupDiv {
+  	position: absolute;
+  	top: 2508px;
+  	left: 70px;
+  	width: 47px;
+  	height: 76px;
+  	flex-shrink: 0;
+  	font-size: 80px;
+  	color: #3d9b41;
+}
+.groupWrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 47px;
+  	height: 76px;
+}
+.landingPageInner2 {
+  	position: absolute;
+  	top: 2527px;
+  	left: 197px;
+  	width: 742px;
+  	height: 38px;
+  	flex-shrink: 0;
+  	font-size: 24px;
+}
+.groupContainer {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 742px;
+  	height: 38px;
+}
+.ciSonoAnche {
+  	position: absolute;
+  	top: 8px;
+  	left: 0px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+}
+.dubbiVoltureRinnovi {
+  	position: absolute;
+  	top: 0px;
+  	left: 500px;
+  	font-size: 16px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+}
+.landingPageChild10 {
+  	position: absolute;
+  	top: 2608.5px;
+  	left: 49.5px;
+  	border-top: 1px solid #768898;
+  	box-sizing: border-box;
+  	width: 1341px;
+  	height: 1px;
+  	flex-shrink: 0;
+}
+.landingPageChild11 {
+  	position: absolute;
+  	top: 2720px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 743px;
+  	flex-shrink: 0;
+}
+.landingPageChild12 {
+  	position: absolute;
+  	top: 3094px;
+  	left: 163px;
+  	border-radius: 30px;
+  	background-color: #01489e;
+  	width: 320px;
+  	height: 209px;
+  	flex-shrink: 0;
+}
+.intersectIcon {
+  	position: absolute;
+  	top: 3094px;
+  	left: 397px;
+  	width: 86px;
+  	height: 86px;
+  	flex-shrink: 0;
+}
+.landingPageChild13 {
+  	position: absolute;
+  	top: 3094px;
+  	left: 957px;
+  	border-radius: 30px;
+  	background-color: #01489e;
+  	width: 320px;
+  	height: 209px;
+  	flex-shrink: 0;
+}
+.intersectIcon2 {
+  	position: absolute;
+  	top: 3094px;
+  	left: 1191px;
+  	width: 86px;
+  	height: 86px;
+  	flex-shrink: 0;
+}
+.landingPageChild14 {
+  	position: absolute;
+  	top: 4104px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 596px;
+  	flex-shrink: 0;
+}
+.landingPageChild15 {
+  	position: absolute;
+  	top: 4226px;
+  	left: calc(50% - 670px);
+  	border-radius: 30px;
+  	background-color: #01489e;
+  	width: 1340px;
+  	height: 348px;
+  	flex-shrink: 0;
+}
+.landingPageChild16 {
+  	position: absolute;
+  	top: 4789.5px;
+  	left: 70.5px;
+  	border-top: 1px solid #768898;
+  	box-sizing: border-box;
+  	width: 1318px;
+  	height: 1px;
+  	flex-shrink: 0;
+}
+.contatti {
+  	position: absolute;
+  	top: 4825px;
+  	left: 50px;
+  	font-size: 18px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.consulenzaEnergeticaSpiegat {
+  	position: absolute;
+  	top: 4828px;
+  	left: calc(50% - 136px);
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.piva00000000000 {
+  	position: absolute;
+  	top: 4840px;
+  	left: 1196px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.ciaonicolasatait {
+  	position: absolute;
+  	top: 4860px;
+  	left: 50px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.div6 {
+  	position: absolute;
+  	top: 4886px;
+  	left: 50px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.consulenteEnergetico {
+  	position: absolute;
+  	top: 177px;
+  	left: 50px;
+  	font-size: 18px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #28912c;
+  	opacity: 0.9;
+  	flex-shrink: 0;
+}
+.risparmiareSullenergiaConContainer {
+  	position: absolute;
+  	top: 221px;
+  	left: 50px;
+  	font-size: 100px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	font-weight: 900;
+  	flex-shrink: 0;
+}
+.risparmiareSullenergia {
+  	line-height: 95.5%;
+}
+.conChiarezza {
+  	color: #01489e;
+  	line-height: 95.5%;
+}
+.analizzoConsumiContrattiContainer {
+  	position: absolute;
+  	top: 536px;
+  	left: 50px;
+  	font-size: 22px;
+  	letter-spacing: 0.03em;
+  	flex-shrink: 0;
+}
+.concreteTrasparentiE {
+  	line-height: 122%;
+}
+.rectangleParent {
+  	position: absolute;
+  	top: 621px;
+  	left: 50px;
+  	width: 283px;
+  	height: 63px;
+  	flex-shrink: 0;
+  	font-size: 22px;
+  	color: #fff;
+}
+.groupChild {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 30px;
+  	background-color: #01489e;
+  	width: 283px;
+  	height: 63px;
+}
+.mandamiUnaBolletta {
+  	position: absolute;
+  	top: 21px;
+  	left: 28px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+}
+.primaAnalisiGratuita {
+  	position: absolute;
+  	top: 709px;
+  	left: 50px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #768898;
+  	white-space: pre-wrap;
+  	flex-shrink: 0;
+}
+.perchScegliermi {
+  	position: absolute;
+  	top: 967px;
+  	left: 50px;
+  	font-size: 18px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #28912c;
+  	opacity: 0.9;
+  	flex-shrink: 0;
+}
+.nonTiVendoContainer {
+  	position: absolute;
+  	top: 1011px;
+  	left: 50px;
+  	font-size: 80px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	font-weight: 900;
+  	flex-shrink: 0;
+}
+.veloceSulSerio {
+  	position: absolute;
+  	top: 1078px;
+  	left: 1088px;
+  	font-size: 22px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.miMandiLa {
+  	position: absolute;
+  	top: 1123px;
+  	left: 1088px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+  	flex-shrink: 0;
+}
+.diRisparmioMedio {
+  	position: absolute;
+  	top: 1246px;
+  	left: 750px;
+  	font-size: 22px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.nonPromettoMagie {
+  	position: absolute;
+  	top: 1291px;
+  	left: 750px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+  	flex-shrink: 0;
+}
+.comunicazioneChiara {
+  	position: absolute;
+  	top: 1308px;
+  	left: 1088px;
+  	font-size: 22px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #fff;
+  	flex-shrink: 0;
+}
+.ogniVoceViene {
+  	position: absolute;
+  	top: 1353px;
+  	left: 1088px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+  	color: #fff;
+  	flex-shrink: 0;
+}
+.dallaTuaParte {
+  	position: absolute;
+  	top: 1533px;
+  	left: 750px;
+  	font-size: 22px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.nessunaProvvigioneNascosta {
+  	position: absolute;
+  	top: 1578px;
+  	left: 750px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+  	flex-shrink: 0;
+}
+.comePossoAiutarti {
+  	position: absolute;
+  	top: 1849px;
+  	left: 50px;
+  	font-size: 18px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #28912c;
+  	opacity: 0.9;
+  	flex-shrink: 0;
+}
+.quattroModiPerContainer {
+  	position: absolute;
+  	top: 1893px;
+  	left: 50px;
+  	font-size: 80px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	font-weight: 900;
+  	flex-shrink: 0;
+}
+.casaAziendaO {
+  	position: absolute;
+  	top: 2011px;
+  	left: 865px;
+  	font-size: 18px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	flex-shrink: 0;
+}
+.analisiBolletteParent {
+  	position: absolute;
+  	top: 2155px;
+  	left: 190px;
+  	width: 922px;
+  	height: 38px;
+  	flex-shrink: 0;
+  	font-size: 24px;
+}
+.leggoQuelloChe {
+  	position: absolute;
+  	top: 0px;
+  	left: 507px;
+  	font-size: 16px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+}
+.confrontoOfferteParent {
+  	position: absolute;
+  	top: 2273px;
+  	left: 190px;
+  	width: 802px;
+  	height: 38px;
+  	flex-shrink: 0;
+  	font-size: 24px;
+}
+.contrattiPiLeggeriParent {
+  	position: absolute;
+  	top: 2391px;
+  	left: 192px;
+  	width: 783px;
+  	height: 38px;
+  	flex-shrink: 0;
+  	font-size: 24px;
+}
+.ottimizzoCostiPotenza {
+  	position: absolute;
+  	top: 0px;
+  	left: 505px;
+  	font-size: 16px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+}
+.chiAiuto {
+  	position: absolute;
+  	top: 2807px;
+  	left: 50px;
+  	font-size: 18px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #28912c;
+  	opacity: 0.9;
+  	flex-shrink: 0;
+}
+.sePaghiUna {
+  	position: absolute;
+  	top: 2851px;
+  	left: 50px;
+  	font-size: 80px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	font-weight: 900;
+  	flex-shrink: 0;
+}
+.famiglie {
+  	position: absolute;
+  	top: 3187px;
+  	left: 180px;
+  	font-size: 25px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #fff;
+  	flex-shrink: 0;
+}
+.condomni {
+  	position: absolute;
+  	top: 3187px;
+  	left: 974px;
+  	font-size: 25px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #fff;
+  	flex-shrink: 0;
+}
+.perSmettereDi {
+  	position: absolute;
+  	top: 3232px;
+  	left: 180px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+  	color: #fff;
+  	flex-shrink: 0;
+}
+.rectangleGroup {
+  	position: absolute;
+  	top: 3094px;
+  	left: 560px;
+  	width: 320px;
+  	height: 209px;
+  	flex-shrink: 0;
+  	font-size: 25px;
+  	color: #fff;
+}
+.groupItem {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 30px;
+  	background-color: #01489e;
+  	width: 320px;
+  	height: 209px;
+}
+.intersectIcon3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 234px;
+  	width: 86px;
+  	height: 86px;
+}
+.pmiNegozi {
+  	position: absolute;
+  	top: 93px;
+  	left: 17px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+}
+.perTenereI {
+  	position: absolute;
+  	top: 138px;
+  	left: 17px;
+  	font-size: 14px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+}
+.perFareChiarezza {
+  	position: absolute;
+  	top: 3232px;
+  	left: 974px;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+  	color: #fff;
+  	flex-shrink: 0;
+}
+.groupParent {
+  	position: absolute;
+  	top: 4302px;
+  	left: 155px;
+  	width: 1131px;
+  	height: 196px;
+  	flex-shrink: 0;
+  	font-size: 18px;
+  	color: #fff;
+}
+.groupFrame {
+  	position: absolute;
+  	top: 22px;
+  	left: 718px;
+  	width: 413px;
+  	height: 46px;
+}
+.unaFotoSuWhatsappVaBenissWrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 413px;
+  	height: 46px;
+}
+.unaFotoSu {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.03em;
+  	line-height: 125%;
+}
+.groupInner {
+  	position: absolute;
+  	top: 90px;
+  	left: 712px;
+  	border-radius: 30px;
+  	background-color: #fff;
+  	width: 283px;
+  	height: 63px;
+}
+.apriWhatsapp {
+  	position: absolute;
+  	top: 111px;
+  	left: 773px;
+  	font-size: 22px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	color: #01489e;
+}
+.oppureScriviA {
+  	position: absolute;
+  	top: 173px;
+  	left: 712px;
+  	font-size: 14px;
+  	text-decoration: underline;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+}
+.iniziamoDallaTuaBollettaParent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 558px;
+  	height: 196px;
+  	font-size: 80px;
+}
+.iniziamoDallaTua {
+  	position: absolute;
+  	top: 44px;
+  	left: 0px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	font-weight: 900;
+}
+.richiediUnaPrima {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 18px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+  	opacity: 0.9;
+}
+.landingPageChild17 {
+  	position: absolute;
+  	top: 910px;
+  	left: calc(50% - 31px);
+  	border-radius: 50%;
+  	width: 62px;
+  	height: 62px;
+  	flex-shrink: 0;
+}
+.landingPageChild18 {
+  	position: absolute;
+  	top: 1819px;
+  	left: calc(50% - 31px);
+  	border-radius: 50%;
+  	width: 62px;
+  	height: 62px;
+  	flex-shrink: 0;
+}
+.landingPageChild19 {
+  	position: absolute;
+  	top: 2685px;
+  	left: calc(50% - 31px);
+  	border-radius: 50%;
+  	width: 62px;
+  	height: 62px;
+  	flex-shrink: 0;
+}
+.landingPageChild20 {
+  	position: absolute;
+  	top: 3379px;
+  	left: calc(50% - 31px);
+  	border-radius: 50%;
+  	width: 62px;
+  	height: 62px;
+  	flex-shrink: 0;
+}
+.ellipseParent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 4054px;
+  	flex-shrink: 0;
+}
+.groupChild2 {
+  	position: absolute;
+  	top: 3992px;
+  	left: 691px;
+  	border-radius: 50%;
+  	width: 62px;
+  	height: 62px;
+}
+.groupChild3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #f7f9fb;
+  	width: 1440px;
+  	height: 76px;
+}
+.livello1Icon {
+  	position: absolute;
+  	top: 22px;
+  	left: 50px;
+  	width: 269px;
+  	height: 32px;
+}
+.comeLavoro {
+  	position: absolute;
+  	top: 29px;
+  	left: 592px;
+  	letter-spacing: 0.03em;
+  	line-height: 122.51%;
+  	display: inline-block;
+  	width: 84px;
+  	height: 17px;
+  	cursor: pointer;
+}
+.servizi {
+  	position: absolute;
+  	top: 29px;
+  	left: 730px;
+  	letter-spacing: 0.03em;
+  	line-height: 122.51%;
+  	display: inline-block;
+  	width: 45px;
+  	height: 17px;
+  	cursor: pointer;
+}
+.chiAiuto2 {
+  	position: absolute;
+  	top: 29px;
+  	left: 829px;
+  	letter-spacing: 0.03em;
+  	line-height: 122.51%;
+  	display: inline-block;
+  	width: 60px;
+  	height: 17px;
+  	cursor: pointer;
+}
+.fiducia {
+  	position: absolute;
+  	top: 29px;
+  	left: 943px;
+  	letter-spacing: 0.03em;
+  	line-height: 122.51%;
+  	display: inline-block;
+  	width: 60px;
+  	height: 17px;
+  	cursor: pointer;
+}
+.groupChild4 {
+  	position: absolute;
+  	top: 75.5px;
+  	left: 49.5px;
+  	border-top: 1px solid #768898;
+  	box-sizing: border-box;
+  	width: 1341px;
+  	height: 1px;
+}
+.groupParent2 {
+  	position: absolute;
+  	top: 17px;
+  	left: 1255px;
+  	width: 135px;
+  	height: 42px;
+  	cursor: pointer;
+  	color: #fff;
+}
+.rectangleWrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 135px;
+  	height: 42px;
+}
+.groupChild5 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 30px;
+  	background-color: #01489e;
+  	width: 135px;
+  	height: 42px;
+}
+.groupWrapper2 {
+  	position: absolute;
+  	top: 14px;
+  	left: 30px;
+  	width: 76px;
+  	height: 13px;
+}
+.parliamoneWrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 76px;
+  	height: 13px;
+}
+.parliamone {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.03em;
+  	line-height: 95.5%;
+}
+.component2 {
+  	position: absolute;
+  	top: 3463px;
+  	left: calc(50% - 720px);
+  	width: 1440px;
+  	height: 641px;
+  	flex-shrink: 0;
+  	text-align: center;
+  	font-size: 16px;
+}
+.component2Child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #f7f9fb;
+}
+.groupParent3 {
+  	position: absolute;
+  	height: 7.49%;
+  	width: 20.69%;
+  	top: 75.82%;
+  	right: 39.65%;
+  	bottom: 16.69%;
+  	left: 39.65%;
+  	text-align: left;
+}
+.marcoBianchiParent {
+  	position: absolute;
+  	height: 79.17%;
+  	width: 76.17%;
+  	top: 10.42%;
+  	right: 0%;
+  	bottom: 10.42%;
+  	left: 23.83%;
+}
+.marcoBianchi {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+  	font-weight: 800;
+}
+.titolareDiUna {
+  	position: absolute;
+  	top: 50%;
+  	left: 0%;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+}
+.ellipseGroup {
+  	position: absolute;
+  	height: 100%;
+  	width: 16.44%;
+  	top: 0%;
+  	right: 83.56%;
+  	bottom: 0%;
+  	left: 0%;
+  	color: #fff;
+}
+.groupChild6 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 50%;
+  	background-color: #01489e;
+}
+.mb {
+  	position: absolute;
+  	top: 31.25%;
+  	left: 22.45%;
+  	letter-spacing: 0.03em;
+  	line-height: 120%;
+  	font-weight: 800;
+}
+.div7 {
+  	position: absolute;
+  	top: 9.36%;
+  	left: 46.88%;
+  	font-size: 18px;
+  	letter-spacing: 0.03em;
+  	line-height: 125%;
+  	font-weight: 900;
+  	color: #28912c;
+}
+.perLaPrima {
+  	position: absolute;
+  	top: 14.66%;
+  	left: 11.25%;
+  	font-size: 70px;
+  	letter-spacing: 0.03em;
+  	line-height: 125%;
+  	font-weight: 900;
+}
+.component2Item {
+  	position: absolute;
+  	height: 2.5%;
+  	width: 1.11%;
+  	top: 91.11%;
+  	right: 51.25%;
+  	bottom: 6.4%;
+  	left: 47.64%;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+}
+.component2Inner {
+  	position: absolute;
+  	height: 2.5%;
+  	width: 1.11%;
+  	top: 91.11%;
+  	right: 49.44%;
+  	bottom: 6.4%;
+  	left: 49.44%;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+}
+.component2Child2 {
+  	position: absolute;
+  	height: 2.5%;
+  	width: 1.11%;
+  	top: 91.11%;
+  	right: 47.64%;
+  	bottom: 6.4%;
+  	left: 51.25%;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+}
+.component2Child3 {
+  	position: absolute;
+  	height: 0.94%;
+  	width: 0.42%;
+  	top: 91.89%;
+  	right: 51.6%;
+  	bottom: 7.18%;
+  	left: 47.99%;
+  	border-radius: 50%;
+  	background-color: #01489e;
+}
+.groupIcon {
+  	position: absolute;
+  	top: 742px;
+  	left: 1228px;
+  	width: 49px;
+  	height: 48px;
+  	cursor: pointer;
+  	flex-shrink: 0;
+}
+.landingPageChild21 {
+  	position: absolute;
+  	top: 742px;
+  	left: 1297px;
+  	width: 49px;
+  	height: 48px;
+  	cursor: pointer;
+  	flex-shrink: 0;
+}
+

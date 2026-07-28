@@ -1,0 +1,124 @@
+.section {
+    width: 95%;
+    margin: 0 auto;
+    padding: 80px 0;
+    background: #F7F9FB;
+    padding-left:15px;
+}
+
+.header {
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+
+.headerLeft {
+    display: flex;
+    flex-direction: column;
+}
+.eyebrow {
+    display: inline-block;
+    color: #28912C;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    text-align:left;
+    margin-bottom: 24px;
+
+}
+
+.title {
+    font-size: 80px;
+    letter-spacing: 0.03em;
+    line-height: 95.5%;
+    font-weight: 900;
+    font-family: Lato, sans-serif;
+    text-align: left;
+    display: inline-block;
+    color: #000;
+}
+
+.titleBlue {
+    color: #01489E;
+}
+
+.headerRight {
+    flex: 1 1 320px;
+    max-width: 525px;
+    max-height: 34px;
+    font-size: 18px;
+    color: #01489E;
+    letter-spacing: 0.03em;
+    font-family:  Lato, sans-serif;
+    line-height: 95.5%;
+    display:inline-block;
+    color:#000;
+    margin-right: 200px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+}
+.row {
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: 120px 640px 1fr;
+    align-items: center;
+    gap:24px;
+    padding: 28px 0;
+    border-bottom: 1px solid #e2e6ea;
+
+}
+
+.row:first-child {
+    border-top: 1px solid #e2e6ea;
+}
+
+.number {
+    font-size: 80px;
+    letter-spacing: 0.03em;
+    line-height: 95.5%;
+    font-weight: 900;
+    color: #3d9b41;
+}
+
+.rowTitle {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.rowText {
+    font-size: 22px;
+    letter-spacing: 0.03em;
+    line-height: 120%;
+}
+
+@media (max-width: 700px) {
+  .row {
+    grid-template-columns: 40px 1fr;
+    grid-template-areas:
+      "num title"
+      "text text";
+  }
+  .number {
+    grid-area: num;
+    font-size: 26px;
+  }
+  .rowTitle {
+    grid-area: title;
+  }
+  .rowText {
+    grid-area: text;
+    margin-top: 8px;
+  }
+  .title {
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,70 @@
+.footer {
+    width: 95%;
+    margin: 0 auto;
+    padding: 40px 0 32px 0;
+    background: #F7F9FB;
+}
+
+.divider {
+    border: none;
+    border-top: 1px solid #303030;
+    margin: 2rem auto;
+    width: 90%;
+}
+
+.row {
+    margin: 0 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.contacts {
+  flex: 1 1 200px;
+}
+
+.contactsTitle {
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 8px 0;
+}
+
+.contactLine {
+  font-size: 18px;
+  color: #444;
+  margin: 0;
+  line-height: 1.6;
+}
+
+
+.tagline {
+  flex: 1 1 200px;
+  text-align: center;
+  font-size: 18px;
+  color: #444;
+  margin: 0;
+  align-self: center;
+}
+
+.copyright {
+  flex: 1 1 200px;
+  text-align: right;
+  font-size: 18px;
+  color: #444;
+  margin: 0;
+  align-self: center;
+}
+
+
+@media (max-width: 700px) {
+  .row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .tagline,
+  .copyright {
+    text-align: left;
+  }
+}

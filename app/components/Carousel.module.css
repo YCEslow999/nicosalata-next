@@ -1,0 +1,17 @@
+.section {
+    width: 95%;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 60px 0;
+}
+
+.card {
+    text-align: center;
+    padding: 40px 48px;
+}
+
+
+.stars {
+    color: #28912C;
+    
+}
