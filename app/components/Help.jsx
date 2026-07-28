@@ -45,10 +45,6 @@ export default function Help () {
                         </h2>
                     </div>
 
-                    <p className={styles.headerRight}>
-                        Casa, azienda o condominio: partiamo sempre dai tuoi numeri, 
-                        non da un pacchetto già pronto.
-                    </p>
                 </div>
 
 
