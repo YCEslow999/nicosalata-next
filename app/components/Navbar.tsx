@@ -18,7 +18,7 @@ export default function Navbar() {
           <li><Link href="#fiducia">Fiducia</Link></li>
         </ul>
 
-        <button className={styles.cta}>Parliamone</button>
+        <Link href="#contatti" className={styles.cta}>Parliamone</Link>
       </nav>
       <div className={styles["navbar-border"]}></div>
     </>

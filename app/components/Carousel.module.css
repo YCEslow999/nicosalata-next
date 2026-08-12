@@ -8,10 +8,118 @@
 .card {
     text-align: center;
     padding: 40px 48px;
+    text-align: center;
 }
 
 
 .stars {
     color: #28912C;
-    
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
 }
+
+.quote {
+    font-size: 64px;
+    font-weight: 700;
+    margin: 0 0 28px 0;
+    font-style: italic;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+/* aggiungi/sostituisci in Carousel.module.css */
+
+.viewport {
+  overflow: hidden;
+  position: relative;
+}
+
+.slide {
+  width: 100%;
+}
+
+.slideNext {
+  animation: slideInFromRight 0.45s ease;
+}
+
+.slidePrev {
+  animation: slideInFromLeft 0.45s ease;
+}
+
+@keyframes slideInFromRight {
+  from {
+    opacity: 0;
+    transform: translateX(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+.avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: #01489e;
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+.authorInfo {
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+.authorName {
+    font-size: 18px;
+    font-weight:700;
+    color: black;
+}
+
+
+.dots {
+    display: flex;
+    justify-content:center;
+    gap: 8px;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #c9cfd6;
+    border: none;
+    cursor: pointer;
+}
+
+.dotActive {
+    background: #4829b7;
+ 
+}
+
+
+

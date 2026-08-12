@@ -12,12 +12,30 @@ export default function Home() {
   return (
     <>
     <Navbar />
-    <Hero />
-    <Why />
-    <Help />
-    <WhoIHelp />
-    <Carousel />
-    <Contact />
+    <section id="come-lavoro">
+      <Hero />
+    </section>
+
+    <section id="servizi">
+      <Why />
+    </section>
+
+    <section id="chi-aiuto">
+      <Help />
+    </section>
+
+    <section id="fiducia">
+      <WhoIHelp />
+    </section>
+
+    <section id="testimonials">
+      <Carousel />
+    </section>
+
+    <section id="contatti">
+      <Contact />
+    </section>
+
     <Footer />
     </>
     );
