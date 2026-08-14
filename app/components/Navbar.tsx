@@ -19,7 +19,7 @@ export default function Navbar() {
           <li><Link href="#come-lavoro" onClick={() => setOpen(false)}>Come lavoro</Link></li>
           <li><Link href="#servizi" onClick={() => setOpen(false)}>Servizi</Link></li>
           <li><Link href="#chi-aiuto" onClick={() => setOpen(false)}>Chi aiuto</Link></li>
-          <li><Link href="#fiducia" onClick={() => setOpen(false)}>Fiducia</Link></li>
+          <li><Link href="#testimonials" onClick={() => setOpen(false)}>Fiducia</Link></li>
           <li className={styles.ctaMobile}>
             <Link href="#contatti" className={styles.cta} onClick={() => setOpen(false)}>
               Parliamone

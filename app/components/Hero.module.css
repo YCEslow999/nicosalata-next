@@ -1,42 +1,38 @@
 .hero {
-    width:95%;
-    margin: 0 auto;
-    display:flex;
-    align-items:flex-start;
-    justify-content: space-between;
-    padding:120px 0;
-    flex-wrap: wrap;
-    
-
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 120px 0;
+  flex-wrap: wrap;
 }
 
 .textCol {
-    flex: 1 1 480px;
-    max-width: 700px;
-    margin-left: 15px;
+  flex: 1 1 480px;
+  max-width: 700px;
+  margin-left: 15px;
 }
 
-
 .eyebrow {
-    display: inline-block;
-    color: #28912C;
-    font-weight: 700;
-    font-size: 18px;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    text-align:left;
-    margin-bottom: 24px;
-    margin-left: 5px;
-
+  display: inline-block;
+  color: #28912C;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  text-align: left;
+  margin-bottom: 24px;
+  margin-left: 5px;
 }
 
 .title {
-    font-size: 96px;
-    line-height: 98.5%;
-    font-weight: 900;
-    font-family: Lato, sans-serif;
-    text-align: left; 
-    padding-bottom:20px;   
+  font-size: 96px;
+  line-height: 98.5%;
+  font-weight: 900;
+  font-family: Lato, sans-serif;
+  text-align: left;
+  padding-bottom: 20px;
 }
 
 .titleBlue {
@@ -44,77 +40,173 @@
 }
 
 .subtitle {
-    font-size: 22px;
-    line-height: 1.5;
-    color: #333;
-    margin-bottom: 38px;
-    max-width: 600px;
-    letter-spacing: 0.03em;
-    font-family: Lato, sans-serif;
-    padding-top: 30px;
-    padding-bottom: 40px;
-    
+  font-size: 22px;
+  line-height: 1.5;
+  color: #333;
+  margin-bottom: 38px;
+  max-width: 600px;
+  letter-spacing: 0.03em;
+  font-family: Lato, sans-serif;
+  padding-top: 30px;
+  padding-bottom: 40px;
 }
 
-
-
 .buttonWrapper {
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    border-radius:30px;
-    background-color:#01489E;
-    height:63px;
-    width:280px;
-    margin-left: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 30px;
+  background-color: #01489E;
+  height: 63px;
+  width: 280px;
+  margin-left: 2px;
 }
 
 .cta {
-    display:inline-block;
-    font-size:22px;
-    color: white;
-    font-family: Lato, sans-serif;
-    font-weight: 600;
-    letter-spacing: 0.03em;
-    padding: 20px 20px;
+  display: inline-block;
+  font-size: 18px;
+  color: white;
+  font-family: Lato, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 20px 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
 }
-
 
 .imageCol {
-    position: relative;
-    flex: 1 1 600px;
-    max-width: 700px;
-    max-height: 700px;
-    
-    margin-right: 40px;
+  position: relative;
+  flex: 1 1 600px;
+  max-width: 700px;
+  max-height: 700px;
+  margin-right: 40px;
 }
 
-
 .imageWrapper {
-    width: 100%;
-    aspect-ratio: 1 / 1;
-    border-radius: 20px;
-    overflow: hidden;
-
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 20px;
+  overflow: hidden;
 }
 
 .image {
-    width:100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 5%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 5%;
 }
 
+/* ########## MEDIA QUERIES ########## */
 
-
-
-
-/* ###MEDIA QUERIES ###*/
-@media (max-width: 900px) {
+/* ---- Tablet grande ---- */
+@media (max-width: 1100px) {
   .title {
-    font-size: 44px;
+    font-size: 72px;
   }
+
+  .subtitle {
+    font-size: 20px;
+  }
+}
+
+/* ---- Tablet ---- */
+@media (max-width: 900px) {
   .hero {
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "eyebrow"
+      "image"
+      "title"
+      "subtitle"
+      "button";
+    row-gap: 20px;
+    padding: 80px 0;
+    justify-items: center;
+  }
+
+  .textCol {
+    display: contents;
+  }
+
+  .eyebrow {
+    display:none;
+    }
+
+  .imageCol {
+    grid-area: image;
+    margin-right: 0;
+    max-width: 480px;
+    width: 90%;
+  }
+
+  .title {
+    grid-area: title;
+    font-size: 52px;
+    text-align: center;
+  }
+  .subtitle {
+    grid-area: subtitle;
+    max-width: 100%;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+  .buttonWrapper {
+    grid-area: button;
+    margin: 0;
+  }
+
+}
+
+/* ---- Mobile ---- */
+@media (max-width: 600px) {
+  .hero {
+    width: 90%;
+    padding: 30px 0;
+    row-gap: 16px;
+
+  }
+
+  .eyebrow {
+    font-size: 15px;
+  }
+
+  .title {
+    font-size: 50px;
+    padding-bottom: 12px;
+  }
+
+  .subtitle {
+    font-size: 17px;
+    margin-bottom: 24px;
+  }
+
+  .buttonWrapper {
+    width: 100%;
+    max-width: 280px;
+    height: 54px;
+  }
+
+  .cta {
+    font-size: 18px;
+    padding: 14px 16px;
+  }
+
+  .imageCol {
+    max-width: 100%;
+  }
+}
+
+/* ---- Mobile piccolo ---- */
+@media (max-width: 380px) {
+  .title {
+    font-size: 30px;
+  }
+
+  .subtitle {
+    font-size: 15px;
   }
 }

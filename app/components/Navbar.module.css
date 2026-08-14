@@ -72,18 +72,19 @@
   flex-direction: column;
   justify-content: center;
   gap: 5px;
-  width: 32px;
+  width: 24px;
   height: 32px;
   background: none;
   border: none;
   cursor: pointer;
   padding: 0;
+  
 }
 
 .burger span {
   display: block;
   width: 100%;
-  height: 2px;
+  height: 3px;
   background: #1a1a1a;
   border-radius: 2px;
   transition: transform 0.2s ease, opacity 0.2s ease;
@@ -126,7 +127,7 @@
   }
 
   .logo {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
   }
 
   .ctaDesktop {
@@ -149,7 +150,7 @@
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.25s ease;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   }
 
   .linksOpen {
@@ -170,11 +171,19 @@
 
   .ctaMobile {
     display: block;
-    padding: 16px 0;
   }
 
   .ctaMobile .cta {
     padding: 10px 24px;
+    background: none;
+    color: #1a1a1a;
+    padding: 16px 0;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 0;
+    width: 100%;
+    text-align: center;
+  
   }
 
   .navbar-border {

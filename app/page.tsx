@@ -24,7 +24,7 @@ export default function Home() {
       <Help />
     </section>
 
-    <section id="fiducia">
+    <section id="">
       <WhoIHelp />
     </section>
 
