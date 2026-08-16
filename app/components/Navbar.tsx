@@ -37,9 +37,9 @@ export default function Navbar() {
           aria-expanded={open}
           onClick={() => setOpen((v) => !v)}
         >
-          <span />
-          <span />
-          <span />
+          <span className = {open ? styles.spanTop : ""} />
+          <span className = {open ? styles.spanMiddle : ""}/>
+          <span className = {open ? styles.spanBottom : ""}/>
         </button>
       </nav>
       <div className={styles["navbar-border"]}></div>

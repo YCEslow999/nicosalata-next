@@ -90,6 +90,25 @@
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
+.burger span:nth-child(1) {
+  transform-origin: left center;
+}
+.burger span:nth-child(3) {
+  transform-origin: left center;
+}
+
+.spanTop {
+  transform: rotate(45deg);
+}
+.spanMiddle {
+  opacity: 0;
+  transform: translateX(-10px);
+}
+
+.spanBottom {
+  transform: rotate(-45deg);
+}
+
 .navbar-border {
   position: absolute;
   left: 2.5%;
