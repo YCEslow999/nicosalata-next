@@ -140,10 +140,33 @@
     .grid {
     grid-template-columns: 1fr;
   }
-  .bigCard {
+  .bigCard, .card {
     grid-row: auto;
+    max-width: 90%;
+    margin: 0 auto;
   }
   .title {
     font-size: 36px;
-  }
+}
+}
+
+/*MOBILE*/
+@media (max-width: 600px) {
+    .section {
+    
+    }
+    .eyebrow {
+        font-size:20px;
+    }
+
+    .textCol {
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .title {
+        text-align: center;  
+        font-size: 50px;
+    }
 }
