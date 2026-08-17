@@ -80,3 +80,60 @@
     font-size: 17px;
     text-decoration: underline;
 }
+
+
+
+@media (max-width: 600px) {
+  .section {
+    width: 95%;
+    margin: 0 auto;
+    padding: 24px 0 48px 0;
+  }
+
+  .banner {
+    margin: 0 10px;
+    padding: 36px 24px;
+    flex-direction: column;
+    text-align: center;
+    gap: 24px;
+  }
+
+  .left {
+    padding: 0;
+    flex: 1 1 auto;
+  }
+
+  .eyebrow {
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+
+  .title {
+    font-size: 38px;
+    line-height: 105%;
+  }
+
+  .right {
+    flex: 1 1 auto;
+    max-width: 100%;
+    margin-right: 0;
+  }
+
+  .text {
+    font-size: 16px;
+  }
+
+  .cta {
+    display: block;
+    width: 100%;
+    padding: 14px 20px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .link {
+    text-align: center;
+  }
+}
