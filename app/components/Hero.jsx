@@ -1,5 +1,6 @@
 import styles from './Hero.module.css';
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function Hero() {
   return (
@@ -22,7 +23,7 @@ export default function Hero() {
 
 
             <div className = {styles.buttonWrapper}>
-                <button className={styles.cta}>Mandami una bolletta</button>
+                <Link href="#contatti" className={styles.cta}>Mandami una bolletta</Link>
             </div>
     
         </div>
