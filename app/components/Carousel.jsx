@@ -5,10 +5,9 @@ import { useState, useEffect, useRef } from "react";
 
 const testimonials = [
   {
-    quote: "Per la prima volta qualcuno mi ha spiegato una bolletta senza farmi sentire stupido. E abbiamo tagliato i costi del 28%.",
-    name: "Marco Bianchi",
-    role: "Titolare di una piccola impresa",
-    initials: "MB"
+    quote: "Da 5 anni Nico mi aiuta a scegliere le offerte più convenienti, con chiarezza, trasparenza e un risparmio concreto sulle bollette",
+    name: "Alberto",
+    initials: "A"
   },
   {
     quote: "Gestire le utenze di più condomini era complicato. Ora ho dati chiari, meno contestazioni e risparmi concreti da presentare in assemblea.",
