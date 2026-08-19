@@ -6,6 +6,7 @@ import { useState, useEffect, useRef } from "react";
 const testimonials = [
   {
     quote: "Da 5 anni Nico mi aiuta a scegliere le offerte più convenienti, con chiarezza, trasparenza e un risparmio concreto sulle bollette",
+    
     name: "Alberto",
     initials: "A"
   },

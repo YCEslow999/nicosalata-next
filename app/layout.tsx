@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Nico Salata",
   description: "sito portfolio consulente energetico",
-  metadtaBase: new URL('https://nicosalata.com'),
+  metadataBase: new URL('https://nicosalata.com'),
   icons: {
     icon: "/icon.png",
   }
