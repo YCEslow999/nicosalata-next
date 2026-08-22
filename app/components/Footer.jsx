@@ -14,7 +14,7 @@ export default function Footer() {
 
         <p className={styles.tagline}>Consulenza energetica, spiegata semplice.</p>
 
-        <p className={styles.copyright}>© 2026 · P.IVA 00000000000</p>
+        <p className={styles.copyright}>© 2026 · P.IVA IT05460850281</p>
       </div>
     </footer>
   );

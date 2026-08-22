@@ -69,10 +69,8 @@
   }
 
   .row {
-    flex-direction: column;
-    justify-content: flex-start; /* <- fix: altrimenti space-between spinge i blocchi agli estremi in verticale */
-    align-items: flex-start;
-    margin: 0 20px;
+    display: grid;
+    grid-template-columns: auto;
     gap: 12px;
   }
 
